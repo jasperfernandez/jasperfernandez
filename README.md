@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Jasper 👨‍💻
 
+## Coding is my canvas for creativity. Transforming ideas into functional solutions is my passion. The continuous learning and collaboration fuel my enthusiasm. Seeing the real-world impact of my code is the most rewarding part of my thrilling journey.
+
 ### Programming Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
