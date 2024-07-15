@@ -1,5 +1,5 @@
 ##  Hello there 👋
-My name is Jasper Fernandez. I am currently a fresh graduate looking for a web development role. You can contact me at jasperfernandez322@gmail.com.<br><br><br>
+My name is `Jasper Fernandez`. I'm a `Jr. Fullstack Developer and UI/UX Designer`. You can contact me at `jasperfernandez322@gmail.com`.<br><br><br>
 
 ## Web Development
 I'm proficient in building robust and dynamic web applications using a variety of technologies:
@@ -20,23 +20,23 @@ In the realm of mobile development, I am adept at creating applications using:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## Version Control System 
+## VCS & Collaboration 
 To ensure efficient version control and collaboration, I rely on:
 
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-## DevOps
-For deployment and infrastructure management, I currently learning:
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 ## Databases
 I am skilled in managing databases, particularly:
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 ![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## DevOps
+For deployment and infrastructure management, I am currently learning:
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 ## UI/UX & Graphic Design Tools
 For creating visually appealing designs and user interfaces, I use:
