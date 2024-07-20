@@ -1,5 +1,5 @@
 ##  Hello there 👋
-My name is `Jasper Fernandez`. I'm a `Jr. Fullstack Developer`. Got a job for me🙂? Please do contact me at `jasperfernandez322@gmail.com`.<br><br><br>
+My name is `Jasper Fernandez`. I'm a `Jr. Fullstack Developer`. Got a job for me🥹? Please do contact me at `jasperfernandez322@gmail.com`.<br><br><br>
 
 ## Web Development
 I'm proficient in building robust and dynamic web applications using a variety of technologies:
