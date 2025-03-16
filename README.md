@@ -1,4 +1,4 @@
-# Hi, I'm Jasper
+# Hi, I'm Jasper a Full Stack Web Developer from Tandag City.
 ### I mainly use RILT stack for web development, Flutter for mobile development and Python for AI stuff.
 
 ## Languages, Libraries and Frameworks 
