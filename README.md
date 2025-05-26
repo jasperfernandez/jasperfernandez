@@ -1,4 +1,11 @@
 # Hi, I'm Jasper
-A full stack developer with 2 years of experience. I enjoy solving complex problems and creating efficient solutions. I have a strong foundation in both frontend and backend technologies, which allows me to build a maintanable and scalable applications.
 
-#### Checkout [my portfolio](https://jasperfernandez.vercel.app) to know more.
+I'm a full stack developer with 2 years of experience. I enjoy solving problems and building scalable, maintainable applications.
+
+I work with both frontend and backend tools, and love creating clean, efficient solutions. 
+
+Checkout [my portfolio](https://jasperfernandez.vercel.app) to know more.
+
+<br>
+
+[![Tech Stack](https://skillicons.dev/icons?i=react,typescript,php,laravel,tailwind,flutter,java,python,mysql,postgres)](https://skillicons.dev)
