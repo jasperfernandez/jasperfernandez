@@ -8,4 +8,4 @@ Checkout [my portfolio](https://jasperfernandez.vercel.app) to know more.
 
 <br>
 
-[![Tech Stack](https://skillicons.dev/icons?i=react,typescript,vuejs,laravel,tailwind,flutter,java,python,mysql,postgres)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=laravel,react,typescript,vuejs,tailwind,flutter,java,python,mysql,postgres)](https://skillicons.dev)
