@@ -1,11 +1,28 @@
-# Hi, I'm Jasper
+```text
+       __                               _____                                 __
+      / /___  _____ ____  ___  _____   / ___/__  ______ __  ____   _ __  .___/ /__ ______
+     / / __ `/ ___// __ \/ _ \/ ___/  / /__/ _ \/ ___/ `_ \/ __ ` / `_ \/ __  / - \___ _/
+____/ / /_/  (__  ) /_/ /  __/ /     / ___/  __/ /  / / / / /_/  / / / / /_/ / ___/ / /__
+\____/\___/_/____/ .___/\___/_/     /_/   \___/_/  /_/ /_/\___/_/_/ /_/\____/\___/ /____/
+                /_/
+```
 
-I'm a full stack developer with almost 3 years of experience. I enjoy solving problems and building scalable, maintainable applications.
+A **Full Stack Developer** with nearly **3 years of hands-on experience** building apps that blend functionality, performance, and creativity.
 
-I work with both frontend and backend tools, and love creating clean, efficient solutions. 
+---
 
-Checkout [my portfolio](https://jasperfernandez.vercel.app) to know more.
-
-<br>
-
+## Tech Stack
 [![Tech Stack](https://skillicons.dev/icons?i=laravel,react,typescript,vuejs,tailwind,flutter,java,python,mysql,postgres)](https://skillicons.dev)
+
+---
+
+## Portfolio
+
+[**jasperfernandez.vercel.app**](https://jasperfernandez.vercel.app)
+
+---
+
+### Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jasperfernandez)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasper.fernandez.dev@gmail.com)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/jasperfernandez)
