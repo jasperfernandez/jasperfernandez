@@ -7,7 +7,7 @@ ____/ / /_/  (__  ) /_/ /  __/ /     / ___/  __/ /  / / / / /_/  / / / / /_/ / _
                 /_/
 ```
 
-A **Full Stack Developer** with nearly **3 years of hands-on experience** building apps that blend functionality, performance, and creativity.
+**Full Stack Developer** with nearly **3 years of hands-on experience** building apps that blend functionality, performance, and creativity.
 
 ---
 
