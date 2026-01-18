@@ -7,7 +7,7 @@
                /_/                                                                   
 ```
 
-**Full Stack Developer** with nearly **3 years of hands-on experience** building apps that blend functionality, performance, and creativity.
+**Full Stack Software Developer** with nearly **3 years of hands-on experience** building apps that blend functionality, performance, and creativity.
 
 ---
 
