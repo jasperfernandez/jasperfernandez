@@ -12,7 +12,7 @@
 ---
 
 ## Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?i=laravel,react,typescript,vuejs,tailwind,flutter,firebase,java,spring,python,fastapi,mysql,postgres)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=laravel,react,typescript,vuejs,tailwind,flutter,firebase,java,python,fastapi,mysql,postgres)](https://skillicons.dev)
 
 ---
 
