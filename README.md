@@ -7,7 +7,7 @@
  ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝ ╚═════╝ ╚══════╝    ╚═╝  ╚═╝╚═╝                                                               
 ```
 
-**Software Developer** with nearly **3 years of hands-on experience** building apps that blend functionality, performance, and creativity.
+**AI & Software Engineer** with nearly **3 years hands-on experience** building apps that blend functionality, performance, and creativity.
 
 ---
 
