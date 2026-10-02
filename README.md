@@ -1,12 +1,3 @@
-```text
-     ██╗ █████╗ ███████╗██╗██╗   ██╗███████╗     █████╗ ██╗
-     ██║██╔══██╗██╔════╝██║██║   ██║██╔════╝    ██╔══██╗██║
-     ██║███████║███████╗██║██║   ██║███████╗    ███████║██║
-██   ██║██╔══██║╚════██║██║██║   ██║╚════██║    ██╔══██║██║
-╚█████╔╝██║  ██║███████║██║╚██████╔╝███████║    ██║  ██║██║
- ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝ ╚═════╝ ╚══════╝    ╚═╝  ╚═╝╚═╝                                                               
-```
-
 **AI & Software Engineer** with nearly **3 years hands-on experience** building apps that blend functionality, performance, and creativity.
 
 ---
@@ -18,7 +9,7 @@
 
 ## Portfolio
 
-[**jasperfernandez.vercel.app**](https://jasperfernandez.vercel.app)
+[**jasperfernandez.github.io**](https://jasperfernandez.github.io)
 
 ---
 
